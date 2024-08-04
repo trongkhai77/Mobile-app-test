@@ -1,0 +1,22 @@
+[
+  {
+    "email": "user1@gmail.com",
+    "password": "Test1234"
+  },
+  {
+    "email": "user2@gmail.com",
+    "password": "Test1234"
+  },
+  {
+    "email": "user3@gmail.com",
+    "password": "Test1234"
+  },
+  {
+    "email": "user4@gmail.com",
+    "password": "Test1234"
+  },
+  {
+    "email": "user5@gmail.com",
+    "password": "Test1234"
+  }
+]
