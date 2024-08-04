@@ -10,8 +10,6 @@ import 'package:start/pages/login_page.dart';
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
-  // final AuthViewModel authViewModel;
-
   @override
   _HomeViewState createState() => _HomeViewState();
 }
